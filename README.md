@@ -47,4 +47,4 @@ Implémentation manuelle de l'algorithme A* sur une grille générée procédura
 
 ## Me contacter
 
-[LinkedIn](#) · elmehdi.azirar@email.com
+azirarelmehdi@gmail.com
